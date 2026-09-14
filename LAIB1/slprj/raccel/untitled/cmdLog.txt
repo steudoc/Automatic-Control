@@ -1,0 +1,10 @@
+	---> Registering atexit function
+	---> Initialize gblExecutionInfo
+	---> i18n_init
+	---> Parse Arguments
+The argument '-tgtconn_server_info_file' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument 'C:\Users\stefa\AppData\Local\Temp\tgtconnpd1019454_2c00_444f_b469_18dc91d01fe1.info' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument '-tgtconn_port' passed to rtiostream_tcpip is not valid and will be ignored.
+The argument '0' passed to rtiostream_tcpip is not valid and will be ignored.
+	---> SetupExecutionServices
+	---> sdiInitializeForHostBasedTarget
